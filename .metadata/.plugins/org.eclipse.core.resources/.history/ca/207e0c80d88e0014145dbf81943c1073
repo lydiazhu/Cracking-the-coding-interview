@@ -1,0 +1,19 @@
+import java.util.HashMap;
+
+public class chapter1c{
+	public static void main(String[] args){
+		String string1= "hello";
+		String string2= "ollhe";
+		int length1 = string1.length();
+		int length2 = string2.length();
+		if (length1==length2){
+			System.out.println("Two strings are not permutation of another");
+			return;
+		}else{
+			HashMap<String,Integer> map = new HashMap<String,Integer>(length1);
+		}
+		
+		
+
+	}
+}
