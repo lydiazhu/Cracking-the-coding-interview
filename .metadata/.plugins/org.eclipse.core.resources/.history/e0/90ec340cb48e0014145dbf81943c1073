@@ -18,7 +18,7 @@ public class chapter1a {
 						myhash.put(temp.charAt(i),1 );
 					}else{
 						System.out.println("string does not have all unique characters");
-						return;
+						break;
 					}
 				}
 				
