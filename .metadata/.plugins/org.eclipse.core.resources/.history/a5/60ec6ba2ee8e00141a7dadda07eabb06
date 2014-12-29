@@ -1,9 +1,0 @@
-
-public class chapter1e {
-	public static String compress(String s){
-		int length = s.length();
-	}
-	public static void main (String[] args){
-		
-	}
-}
