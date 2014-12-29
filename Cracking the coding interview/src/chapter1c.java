@@ -1,3 +1,4 @@
+import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Scanner;
 
@@ -34,3 +35,41 @@ public class chapter1c{
 
 	}
 }
+
+//book solution
+
+//book solution1
+/*
+public class chapter1c{
+	static Scanner userInput = new Scanner(System.in);
+	
+	public static String sort(String s){
+		char[] content=s.toCharArray();
+		Arrays.sort(content);
+		return new String(content);
+	}
+	
+	public static boolean permutation(String s, String t){
+		if (s.length() != t.length()){
+			return false;
+		}
+		return sort(s).equals(sort(t));
+	}
+	
+	public static void main(String[] args){
+		System.out.println("Enter a string and make sure the string has sufficient space at the end of the string to hold the additional character %20 for each sapce");
+		if(userInput.hasNextLine()){
+			String string1=userInput.next();
+			String string2=userInput.next();
+			if(permutation(string1,string2)){
+				System.out.println("Two strings are permutation of another");
+			}else{
+				System.out.println("Two strings are not permutation of another");
+			}
+			
+			
+		}
+	}
+}*/
+//book solution 2
+

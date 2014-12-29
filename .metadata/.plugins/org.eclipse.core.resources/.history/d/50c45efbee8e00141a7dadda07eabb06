@@ -1,0 +1,14 @@
+
+public class chapter1e {
+	public static String compress(String s){
+		int length = s.length();
+		char[] sCompressed = new char[length];
+		for(char c: sCompressed){
+			System.out.println(c);
+			return "hello";
+		}
+	}
+	public static void main (String[] args){
+		
+	}
+}

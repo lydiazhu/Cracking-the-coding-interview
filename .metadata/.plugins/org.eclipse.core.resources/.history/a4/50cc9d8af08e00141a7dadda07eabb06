@@ -1,0 +1,32 @@
+import java.util.Scanner;
+
+
+public class chapter1e {
+	public static String compress(String s){
+		int length = s.length();
+		char[] sCompressed = s.toCharArray();
+		for(int i,j=0;i<length;i++){
+			int count=0;
+			char pivot=s.charAt(i);
+			while(i<length&&pivot==s.charAt(i)){
+				if(count==0){
+					sCompressed[i]=pivot;
+				}else{
+					count++;
+				}				
+			}
+			sCompressed[++j]
+			
+		}
+		return "hello";
+	}
+	static Scanner userInput = new Scanner(System.in);
+	public static void main (String[] args){
+		
+		if(userInput.hasNext()){
+			String myString=userInput.next();
+			System.out.println(compress(myString));
+		}
+		
+	}
+}
