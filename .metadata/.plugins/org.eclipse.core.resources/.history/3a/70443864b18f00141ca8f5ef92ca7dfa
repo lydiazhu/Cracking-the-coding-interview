@@ -1,0 +1,14 @@
+
+public class chapter1g {
+	
+	static Scanner userInput = new Scanner(System.in);
+	public static void main(String[] args){
+		System.out.println("Enter two numbers for M and N for an M*N Matrix: ");
+		int m=3;
+		int n=3;
+		int[][] matrix = new int[m][n];
+		matrix[0][0]=1;
+		
+	}
+	
+}
