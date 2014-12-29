@@ -19,13 +19,12 @@ public class chapter1e {
 				sCompressed.append(pivot);
 				sCompressed.append(count);
 				pivot=s.charAt(i);
+				//System.out.println(count);
 				count=1;
 			}
 		}
-		
-		//if the length is greater than one and the compressed version with the last character + count is smaller than the original length
-		//then return the compressed version
-		if (length>1&&sCompressed.length()<length-2) {
+		//System.out.println(count);
+		if (length>1&&sCompressed.length()<length-1) {
 			sCompressed.append(pivot);
 			sCompressed.append(count);
 			return sCompressed.toString();

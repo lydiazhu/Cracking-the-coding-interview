@@ -23,9 +23,9 @@ public class chapter1e {
 			}
 		}
 		
-		//if the length is greater than one and the compressed version with the last character + count is smaller than the original length
+		//if the length is greater than one and the compressed version with the last character + count is smaller than the orignal length
 		//then return the compressed version
-		if (length>1&&sCompressed.length()<length-2) {
+		if (length>1&&sCompressed.length()<length-1) {
 			sCompressed.append(pivot);
 			sCompressed.append(count);
 			return sCompressed.toString();

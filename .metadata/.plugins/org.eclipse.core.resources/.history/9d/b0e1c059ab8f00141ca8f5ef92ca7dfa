@@ -11,22 +11,22 @@ public class chapter1e {
 		int count=1;
 		for(int i=1;i<length;i++){
 			if (sCompressed.length()>=length-1&&count==1){
+				//System.out.println("here");
 				return s;
 			}
 			if(pivot==s.charAt(i)){
 				count++;				
 			}else{
 				sCompressed.append(pivot);
-				sCompressed.append(count);
 				pivot=s.charAt(i);
-				count=1;
+				sCompressed.append(count);
+				
+				//System.out.println(count);
+				int count=1;
 			}
 		}
-		
-		//if the length is greater than one and the compressed version with the last character + count is smaller than the original length
-		//then return the compressed version
-		if (length>1&&sCompressed.length()<length-2) {
-			sCompressed.append(pivot);
+		//System.out.println(count);
+		if (length>1&&sCompressed.length()<length) {
 			sCompressed.append(count);
 			return sCompressed.toString();
 		}else{
