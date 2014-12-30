@@ -1,0 +1,23 @@
+
+public class chapter1h {
+	
+	public static boolean isSubstring (String s1, String s2){
+		String long;
+		String short;
+		if (s1.length()>=s2.length()){
+			long=s1;
+			short=s2;
+		}else{
+			long=s2;
+			short=s1;
+		}
+		for(int i=0; i<s1.length();i++){
+			
+		}
+	}
+	
+	public static void main(String[] args){
+		
+	}
+	
+}
