@@ -1,0 +1,13 @@
+import java.util.LinkedList;
+
+
+public class chapter2a {
+	LinkedList mylist = new LinkedList();
+	
+	mylist.addLast(1);
+	mylist.add(6);
+	mylist.add(3);
+	mylist.add(8);
+	mylist.add(2);
+	
+}

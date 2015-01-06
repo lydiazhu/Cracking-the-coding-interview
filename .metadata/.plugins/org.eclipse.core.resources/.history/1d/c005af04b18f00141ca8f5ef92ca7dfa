@@ -1,6 +1,0 @@
-
-public class chapter1g {
-	int m=3;
-	int n=3;
-	int[][] matrix = [m][n];
-}

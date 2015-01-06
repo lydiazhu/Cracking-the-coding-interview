@@ -1,4 +1,0 @@
-
-public class chapter1d {
-	static Scanner userInput = new Scanner(System.in);
-}

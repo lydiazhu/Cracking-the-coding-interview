@@ -1,5 +1,0 @@
-public class chapter1c{
-	public static void main(String[] args){
-		String[] string1= "hello";
-	}
-}

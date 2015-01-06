@@ -1,0 +1,32 @@
+import java.util.HashMap;
+import java.util.LinkedList;
+
+
+public class chapter2a {
+	
+	static void removeDuplicate(LinkedList<Integer> list){
+		int size = list.size();
+		HashMap<Integer, Integer> map = new HashMap<Integer, Integer>(size);
+		for (int i=0;i<size;i++){
+			if(map.get(list.indexOf(i))==null){
+				map.put(list.indexOf(i),1);
+				System.out.println("i"+i);
+			}else{
+				list.remove(i);
+			}
+		}
+	}
+	public static void main(String[] args){
+		LinkedList<Integer> mylist = new LinkedList<Integer>();
+		
+		mylist.add(1);
+		mylist.add(6);
+		mylist.add(3);
+		mylist.add(8);
+		mylist.add(2);
+		mylist.add(3);
+		removeDuplicate(mylist);
+		
+	}
+	
+}
