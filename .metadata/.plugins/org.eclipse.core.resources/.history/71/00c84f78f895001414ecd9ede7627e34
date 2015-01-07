@@ -1,0 +1,26 @@
+
+public class chapter2b {
+	static int kthToLast(Node n, int k){
+		int length=0;
+		Node forLength = n;
+		Node findKth = n;
+		while (forLength != null){
+			forLength = forLength.next;
+			length++;
+		}
+		for (int i=0; i<(length-k); i++){
+			findKth = findKth.next;
+		}
+		return findKth.data;
+	}
+	
+	public static void main(String[] args){
+		Node duplicatedNode = new Node(3);
+		duplicatedNode.appendToTail(4);
+		duplicatedNode.appendToTail(4);
+		duplicatedNode.appendToTail(5);
+		duplicatedNode.appendToTail(3);
+		
+		System.out.println(kthToLast(duplicatedNode,3));
+	}
+}

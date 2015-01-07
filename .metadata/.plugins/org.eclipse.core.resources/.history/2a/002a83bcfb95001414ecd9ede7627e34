@@ -1,0 +1,29 @@
+//assume user will never enter a k such that its out of bound
+public class chapter2b {
+	static Node kthToLast(Node n, int k){
+		int length=0;
+		Node forLength = n;
+		Node findKth = n;
+		while (forLength != null){
+			forLength = forLength.next;
+			length++;
+		}
+		for (int i=0; i<(length-k); i++){
+			findKth = findKth.next;
+		}
+		return findKth;
+	}
+	
+	public static void main(String[] args){
+		Node node = new Node(3);
+		node.appendToTail(4);
+		node.appendToTail(4);
+		node.appendToTail(5);
+		node.appendToTail(3);
+		Node kthToLastNode=kthToLast(node,4);
+		while(kthToLastNode!=null){
+			System.out.println(kthToLastNode.data);
+			kthToLastNode=kthToLastNode.next;
+		}
+	}
+}
