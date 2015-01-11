@@ -30,8 +30,8 @@ public class chapter2b {
 		
 		Node node = nthToLastR2(head.next, k,i);
 		i.value=i.value+1;
-		System.out.println("i is "+i.value);
-		System.out.println("data is "+head.data);
+//		System.out.println("i is "+i.value);
+	//	System.out.println("data is "+head.data);
 		if(i.value==k){
 			//System.out.println("final i is "+i.value);
 			return head;
