@@ -1,0 +1,39 @@
+
+
+public class NodeTree {
+	
+	int key;
+	
+	NodeTree left;
+	NodeTree right;
+	
+	NodeTree(){
+		
+	}
+	
+	void add(int k, NodeTree tree){
+		if (this==null){
+			key=k;
+		}else{
+			if(this.key<k){
+				add(k,tree.right);
+			}else{
+				add(k,tree.left);
+			}
+		}
+	}
+	
+	void inOrderTraversal(NodeTree tree){
+		if (tree != null){
+			inOrderTraversal(tree.left);
+			System.out.println(tree);
+			inOrderTraversal(tree.right);
+		}
+	}
+	
+	public static void main(String[] args){
+		NodeTree tree = new NodeTree();
+		tree.add(3, tree);
+		tree.add(2, tree);
+	}
+}

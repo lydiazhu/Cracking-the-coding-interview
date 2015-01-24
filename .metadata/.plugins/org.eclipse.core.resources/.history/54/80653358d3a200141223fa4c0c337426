@@ -1,0 +1,10 @@
+
+
+public class NodeTree {
+	
+	int key;
+	
+	NodeTree left;
+	NodeTree right;
+	
+}

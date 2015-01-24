@@ -1,0 +1,8 @@
+import java.util.ArrayList;
+
+
+public class set {
+	ArrayList<Integer> set = new ArrayList<Integer>();
+	
+	
+}

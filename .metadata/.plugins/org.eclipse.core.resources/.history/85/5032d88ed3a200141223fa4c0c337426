@@ -1,0 +1,25 @@
+
+
+public class NodeTree {
+	
+	int key;
+	
+	NodeTree left;
+	NodeTree right;
+	
+	NodeTree(){
+		
+	}
+	
+	void add(int k){
+		if (this==null){
+			key=k;
+		}else{
+			if(this.key<k){
+				this=this.right;
+			}else{
+				this=this.left;
+			}
+		}
+	}
+}

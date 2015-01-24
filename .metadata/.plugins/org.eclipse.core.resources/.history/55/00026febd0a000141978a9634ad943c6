@@ -1,0 +1,36 @@
+import java.util.ArrayList;
+
+
+public class Set {
+	private ArrayList<Integer> set;
+	
+	public void create(){
+		set= new ArrayList<Integer>();
+	}
+	
+	
+	public void add(Integer e){
+		set.add(e);
+	}
+	public void delete(Integer e){
+		
+	}
+	public mySet union(mySet s1, mySet s2){
+		return s1; //user add all
+	}
+	public mySet intersection(mySet s1, mySet s2){
+		return s1;
+	}
+	
+	public Boolean subset(mySet s1, mySet s2){
+		return true;
+	}
+	
+	public Boolean isElement(Integer e, mySet s){
+		return true;
+	}
+	
+	
+	
+	
+}

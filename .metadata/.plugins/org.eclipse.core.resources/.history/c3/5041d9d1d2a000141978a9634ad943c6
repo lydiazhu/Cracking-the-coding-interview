@@ -1,0 +1,42 @@
+import java.util.ArrayList;
+
+
+public class Set {
+	private ArrayList<Integer> set;
+	private int eleSize=0;
+	
+	public void create(){
+		set= new ArrayList<Integer>();
+	}
+	
+	
+	public void add(Integer e){
+		set.add(e);
+		if (set.contains(e)){
+			throw new RepeatException();
+		}
+	}
+	public void delete(int e){
+		
+	}
+	public Set union(Set s1, Set s2){
+		return s1; //user add all
+	}
+	public Set intersection(Set s1, Set s2){
+		return s1;
+	}
+	
+	public Boolean subset(Set s1, Set s2){
+		return true;
+	}
+	
+	public Boolean isElement(int e, Set s){
+		return true;
+	}
+	
+	public int size(Set s){
+		return eleSize;
+	}
+	
+	
+}

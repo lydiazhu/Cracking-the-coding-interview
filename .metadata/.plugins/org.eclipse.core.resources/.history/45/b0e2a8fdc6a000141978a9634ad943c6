@@ -1,0 +1,18 @@
+import java.util.ArrayList;
+
+
+public class Set {
+	ArrayList<Integer> set = new ArrayList<Integer>();
+	
+	public void add(Integer e){
+		set.add(e);
+	}
+	public void delete(Integer e){
+		
+	}
+	public Set union(Set s1, Set s2){
+		return Set;
+	}
+	
+	
+}

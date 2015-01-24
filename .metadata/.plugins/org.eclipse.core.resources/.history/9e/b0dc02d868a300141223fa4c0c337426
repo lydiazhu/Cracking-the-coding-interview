@@ -1,0 +1,41 @@
+
+
+public class NodeTree {
+		int key;
+		
+		NodeTree left;
+		NodeTree right;
+		
+		public NodeTree(int k){
+			key=k;
+			left= null;
+			right = null;
+		}
+	
+	void add(int k, NodeTree tree){
+		NodeTree newNode = new NodeTree(k);
+		if (this==null){
+			root=newNode;
+		}else{
+			if(this.root.key<k){
+				add(k,tree.right);
+			}else{
+				add(k,tree.left);
+			}
+		}
+	}
+	
+	public void inOrderTraversal(BST tree){
+		if (tree != null){
+			inOrderTraversal(tree.root.left);
+			System.out.println(tree);
+			inOrderTraversal(tree.root.right);
+		}
+	}
+	
+	public static void main(String[] args){
+		BST tree = new BST();
+		tree.add(2, tree);
+		tree.inOrderTraversal(tree);
+	}
+}

@@ -1,0 +1,61 @@
+
+
+public class NodeTree {
+		int key;
+		
+		NodeTree left;
+		NodeTree right;
+		public NodeTree(int k){
+			key=k;
+			left= null;
+			right = null;
+		}
+	
+	void add(int k){
+		NodeTree newNode = new NodeTree(k);
+		NodeTree tree=this;
+		if (tree==null){
+			tree=newNode;
+			//System.out.println("null");
+			//System.out.println(tree.key);
+		}else{
+			//System.out.println(tree.key+" is smaller than "+k);
+			NodeTree focusNode=tree;
+			NodeTree parent;
+			while(true){
+				parent=focusNode;
+				if (focusNode.key>k){
+					focusNode=focusNode.left;
+					if(focusNode==null){
+						parent.left=newNode;
+						return;
+					}
+				}else{
+					focusNode=focusNode.right;
+					if(focusNode==null){
+						parent.right=newNode;
+						return;
+					}
+				}
+			}
+				
+			}
+		}
+	
+	public void inOrderTraversal(NodeTree tree){
+		if (tree != null){
+			inOrderTraversal(tree.left);
+			
+			System.out.println(tree.key);
+			inOrderTraversal(tree.right);
+			
+		}
+	}
+	
+	public static void main(String[] args){
+		NodeTree tree = new NodeTree(3);
+		tree.add(2);
+		tree.add(4);
+		tree.inOrderTraversal(tree);
+	}
+}

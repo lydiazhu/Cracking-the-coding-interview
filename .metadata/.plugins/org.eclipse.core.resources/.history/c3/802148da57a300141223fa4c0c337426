@@ -1,0 +1,44 @@
+
+
+public class BST {
+	
+	private Node root;
+	
+	private class NodeTree{
+		int key;
+		
+		NodeTree left;
+		NodeTree right;
+		
+		public Nodtree(int k){
+			key=k;
+		}
+	}
+	
+	void add(int k, NodeTree tree){
+		if (this==null){
+			key=k;
+			System.out.println("Null");
+		}else{
+			if(this.key<k){
+				add(k,tree.right);
+			}else{
+				add(k,tree.left);
+			}
+		}
+	}
+	
+	public void inOrderTraversal(NodeTree tree){
+		if (tree != null){
+			inOrderTraversal(tree.left);
+			System.out.println(tree);
+			inOrderTraversal(tree.right);
+		}
+	}
+	
+	public static void main(String[] args){
+		NodeTree tree = new NodeTree(3);
+		tree.add(2, tree);
+		tree.inOrderTraversal(tree);
+	}
+}

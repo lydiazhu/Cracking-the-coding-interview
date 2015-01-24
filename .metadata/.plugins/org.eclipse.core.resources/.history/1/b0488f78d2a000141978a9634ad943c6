@@ -1,0 +1,4 @@
+
+public class RepeatException extends Exception {
+	super("The element exist in the set");
+}
