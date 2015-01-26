@@ -1,0 +1,25 @@
+import java.lang.reflect.Array;
+
+
+public class chapter4c {
+	TreeNode minHeightTree(int[] sorted){
+		int mid = sorted.length/2;
+		TreeNode tree = new TreeNode(sorted[mid]);
+		int left = mid-1;
+		int right = mid+1;
+		while(left>=0){
+			tree.add(sorted[left]);
+			left--;
+		}
+		while(right< sorted.length){
+			tree.add(sorted[right]);
+			right++;
+		}
+		return tree;
+	}
+	
+	public static void main(String[] args){
+		int[] sorted= {1, 2, 3, 4, 5};
+		TreeNode minTree= minHeightTree(sorted);
+	}
+}

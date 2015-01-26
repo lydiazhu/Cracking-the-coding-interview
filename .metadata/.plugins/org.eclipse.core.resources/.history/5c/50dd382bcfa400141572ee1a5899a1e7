@@ -1,0 +1,14 @@
+
+public class chapter5a {
+	static int clearBit(int num, int i){
+		int mask = ~(1 << i);
+		return num & mask;
+	}
+	static void updateBit(int n, int m, int i, int j){
+		for (int start = i; start <=j ; start++){
+			clearBit(n,start);
+		}
+		m << i;
+		return n|m;
+	}
+}

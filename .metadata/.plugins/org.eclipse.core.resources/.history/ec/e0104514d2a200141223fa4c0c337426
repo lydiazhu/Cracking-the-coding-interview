@@ -1,9 +1,0 @@
-
-
-public class NodeTree {
-	
-	int key;
-	
-	Node left;
-	Node right;
-}

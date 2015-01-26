@@ -1,0 +1,6 @@
+
+public class chapter5a {
+	static void updateBit(int n, int m, int i, int j){
+		
+	}
+}

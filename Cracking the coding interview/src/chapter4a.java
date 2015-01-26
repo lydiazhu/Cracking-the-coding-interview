@@ -1,6 +1,6 @@
 
 public class chapter4a {
-	static int maxHeight(TreeNode tree){
+	public static int maxHeight(TreeNode tree){
 		if(tree == null){
 			return 0;
 		}else{

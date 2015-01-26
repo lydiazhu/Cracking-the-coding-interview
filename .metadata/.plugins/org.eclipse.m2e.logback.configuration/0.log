@@ -561,3 +561,331 @@
 2015-01-23 23:20:28,858 [Worker-204] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Lydia/GitHub/Cracking-the-coding-interview/Cracking the coding interview/src/main/resources
 2015-01-23 23:20:28,860 [Worker-204] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
 2015-01-23 23:20:28,860 [Worker-204] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Lydia/GitHub/Cracking-the-coding-interview/Cracking the coding interview/src/test/resources
+2015-01-24 19:36:03,421 [Worker-483] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-24 19:36:03,424 [Worker-483] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Lydia/GitHub/Cracking-the-coding-interview/Cracking the coding interview/src/main/resources
+2015-01-24 19:36:03,425 [Worker-483] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-24 19:36:03,426 [Worker-483] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Lydia/GitHub/Cracking-the-coding-interview/Cracking the coding interview/src/test/resources
+2015-01-24 19:36:12,881 [Worker-483] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-24 19:36:12,882 [Worker-483] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Lydia/GitHub/Cracking-the-coding-interview/Cracking the coding interview/src/main/resources
+2015-01-24 19:36:12,883 [Worker-483] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-24 19:36:12,883 [Worker-483] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Lydia/GitHub/Cracking-the-coding-interview/Cracking the coding interview/src/test/resources
+2015-01-24 19:36:29,631 [Worker-482] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-24 19:36:29,635 [Worker-482] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Lydia/GitHub/Cracking-the-coding-interview/Cracking the coding interview/src/main/resources
+2015-01-24 19:36:29,637 [Worker-482] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-24 19:36:29,638 [Worker-482] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Lydia/GitHub/Cracking-the-coding-interview/Cracking the coding interview/src/test/resources
+2015-01-24 19:43:17,708 [Worker-486] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-24 19:43:17,709 [Worker-486] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Lydia/GitHub/Cracking-the-coding-interview/Cracking the coding interview/src/main/resources
+2015-01-24 19:43:17,710 [Worker-486] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-24 19:43:17,710 [Worker-486] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Lydia/GitHub/Cracking-the-coding-interview/Cracking the coding interview/src/test/resources
+2015-01-24 20:09:18,774 [Worker-498] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-24 20:09:18,777 [Worker-498] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Lydia/GitHub/Cracking-the-coding-interview/Cracking the coding interview/src/main/resources
+2015-01-24 20:09:18,778 [Worker-498] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-24 20:09:18,779 [Worker-498] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Lydia/GitHub/Cracking-the-coding-interview/Cracking the coding interview/src/test/resources
+2015-01-24 20:09:38,223 [Worker-493] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-24 20:09:38,224 [Worker-493] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Lydia/GitHub/Cracking-the-coding-interview/Cracking the coding interview/src/main/resources
+2015-01-24 20:09:38,225 [Worker-493] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-24 20:09:38,226 [Worker-493] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Lydia/GitHub/Cracking-the-coding-interview/Cracking the coding interview/src/test/resources
+2015-01-24 20:10:29,348 [Worker-494] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-24 20:10:29,348 [Worker-494] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Lydia/GitHub/Cracking-the-coding-interview/Cracking the coding interview/src/main/resources
+2015-01-24 20:10:29,350 [Worker-494] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-24 20:10:29,351 [Worker-494] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Lydia/GitHub/Cracking-the-coding-interview/Cracking the coding interview/src/test/resources
+2015-01-24 20:12:39,206 [Worker-497] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-24 20:12:39,207 [Worker-497] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Lydia/GitHub/Cracking-the-coding-interview/Cracking the coding interview/src/main/resources
+2015-01-24 20:12:39,208 [Worker-497] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-24 20:12:39,208 [Worker-497] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Lydia/GitHub/Cracking-the-coding-interview/Cracking the coding interview/src/test/resources
+2015-01-24 20:13:47,854 [Worker-500] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-24 20:13:47,855 [Worker-500] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Lydia/GitHub/Cracking-the-coding-interview/Cracking the coding interview/src/main/resources
+2015-01-24 20:13:47,856 [Worker-500] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-24 20:13:47,856 [Worker-500] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Lydia/GitHub/Cracking-the-coding-interview/Cracking the coding interview/src/test/resources
+2015-01-24 20:14:38,217 [Worker-494] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-24 20:14:38,217 [Worker-494] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Lydia/GitHub/Cracking-the-coding-interview/Cracking the coding interview/src/main/resources
+2015-01-24 20:14:38,218 [Worker-494] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-24 20:14:38,219 [Worker-494] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Lydia/GitHub/Cracking-the-coding-interview/Cracking the coding interview/src/test/resources
+2015-01-24 20:15:06,031 [Worker-498] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-24 20:15:06,032 [Worker-498] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Lydia/GitHub/Cracking-the-coding-interview/Cracking the coding interview/src/main/resources
+2015-01-24 20:15:06,033 [Worker-498] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-24 20:15:06,033 [Worker-498] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Lydia/GitHub/Cracking-the-coding-interview/Cracking the coding interview/src/test/resources
+2015-01-24 20:16:00,649 [Worker-499] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-24 20:16:00,649 [Worker-499] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Lydia/GitHub/Cracking-the-coding-interview/Cracking the coding interview/src/main/resources
+2015-01-24 20:16:00,652 [Worker-499] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-24 20:16:00,653 [Worker-499] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Lydia/GitHub/Cracking-the-coding-interview/Cracking the coding interview/src/test/resources
+2015-01-24 20:16:10,012 [Worker-500] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-24 20:16:10,013 [Worker-500] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Lydia/GitHub/Cracking-the-coding-interview/Cracking the coding interview/src/main/resources
+2015-01-24 20:16:10,014 [Worker-500] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-24 20:16:10,014 [Worker-500] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Lydia/GitHub/Cracking-the-coding-interview/Cracking the coding interview/src/test/resources
+2015-01-24 20:17:47,225 [Worker-494] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-24 20:17:47,226 [Worker-494] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Lydia/GitHub/Cracking-the-coding-interview/Cracking the coding interview/src/main/resources
+2015-01-24 20:17:47,227 [Worker-494] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-24 20:17:47,229 [Worker-494] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Lydia/GitHub/Cracking-the-coding-interview/Cracking the coding interview/src/test/resources
+2015-01-24 20:17:54,450 [Worker-501] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-24 20:17:54,450 [Worker-501] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Lydia/GitHub/Cracking-the-coding-interview/Cracking the coding interview/src/main/resources
+2015-01-24 20:17:54,452 [Worker-501] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-24 20:17:54,452 [Worker-501] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Lydia/GitHub/Cracking-the-coding-interview/Cracking the coding interview/src/test/resources
+2015-01-24 20:18:09,520 [Worker-503] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-24 20:18:09,520 [Worker-503] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Lydia/GitHub/Cracking-the-coding-interview/Cracking the coding interview/src/main/resources
+2015-01-24 20:18:09,521 [Worker-503] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-24 20:18:09,522 [Worker-503] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Lydia/GitHub/Cracking-the-coding-interview/Cracking the coding interview/src/test/resources
+2015-01-24 20:21:34,340 [Worker-502] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-24 20:21:34,341 [Worker-502] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Lydia/GitHub/Cracking-the-coding-interview/Cracking the coding interview/src/main/resources
+2015-01-24 20:21:34,342 [Worker-502] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-24 20:21:34,342 [Worker-502] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Lydia/GitHub/Cracking-the-coding-interview/Cracking the coding interview/src/test/resources
+2015-01-24 20:22:14,351 [Worker-505] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-24 20:22:14,351 [Worker-505] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Lydia/GitHub/Cracking-the-coding-interview/Cracking the coding interview/src/main/resources
+2015-01-24 20:22:14,352 [Worker-505] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-24 20:22:14,353 [Worker-505] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Lydia/GitHub/Cracking-the-coding-interview/Cracking the coding interview/src/test/resources
+2015-01-24 20:22:38,070 [Worker-502] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-24 20:22:38,070 [Worker-502] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Lydia/GitHub/Cracking-the-coding-interview/Cracking the coding interview/src/main/resources
+2015-01-24 20:22:38,071 [Worker-502] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-24 20:22:38,072 [Worker-502] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Lydia/GitHub/Cracking-the-coding-interview/Cracking the coding interview/src/test/resources
+2015-01-24 20:23:55,941 [Worker-494] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-24 20:23:55,941 [Worker-494] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Lydia/GitHub/Cracking-the-coding-interview/Cracking the coding interview/src/main/resources
+2015-01-24 20:23:55,944 [Worker-494] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-24 20:23:55,944 [Worker-494] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Lydia/GitHub/Cracking-the-coding-interview/Cracking the coding interview/src/test/resources
+2015-01-24 20:29:20,498 [Worker-507] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-24 20:29:20,499 [Worker-507] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Lydia/GitHub/Cracking-the-coding-interview/Cracking the coding interview/src/main/resources
+2015-01-24 20:29:20,500 [Worker-507] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-24 20:29:20,501 [Worker-507] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Lydia/GitHub/Cracking-the-coding-interview/Cracking the coding interview/src/test/resources
+2015-01-24 20:29:34,869 [Worker-510] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-24 20:29:34,869 [Worker-510] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Lydia/GitHub/Cracking-the-coding-interview/Cracking the coding interview/src/main/resources
+2015-01-24 20:29:34,870 [Worker-510] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-24 20:29:34,870 [Worker-510] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Lydia/GitHub/Cracking-the-coding-interview/Cracking the coding interview/src/test/resources
+2015-01-24 20:29:40,282 [Worker-507] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-24 20:29:40,282 [Worker-507] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Lydia/GitHub/Cracking-the-coding-interview/Cracking the coding interview/src/main/resources
+2015-01-24 20:29:40,283 [Worker-507] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-24 20:29:40,284 [Worker-507] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Lydia/GitHub/Cracking-the-coding-interview/Cracking the coding interview/src/test/resources
+2015-01-24 20:34:46,008 [Worker-494] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-24 20:34:46,009 [Worker-494] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Lydia/GitHub/Cracking-the-coding-interview/Cracking the coding interview/src/main/resources
+2015-01-24 20:34:46,010 [Worker-494] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-24 20:34:46,011 [Worker-494] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Lydia/GitHub/Cracking-the-coding-interview/Cracking the coding interview/src/test/resources
+2015-01-24 20:35:42,217 [Worker-494] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-24 20:35:42,217 [Worker-494] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Lydia/GitHub/Cracking-the-coding-interview/Cracking the coding interview/src/main/resources
+2015-01-24 20:35:42,218 [Worker-494] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-24 20:35:42,219 [Worker-494] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Lydia/GitHub/Cracking-the-coding-interview/Cracking the coding interview/src/test/resources
+2015-01-24 20:37:38,650 [Worker-494] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-24 20:37:38,651 [Worker-494] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Lydia/GitHub/Cracking-the-coding-interview/Cracking the coding interview/src/main/resources
+2015-01-24 20:37:38,652 [Worker-494] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-24 20:37:38,653 [Worker-494] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Lydia/GitHub/Cracking-the-coding-interview/Cracking the coding interview/src/test/resources
+2015-01-24 20:37:45,445 [Worker-514] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-24 20:37:45,446 [Worker-514] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Lydia/GitHub/Cracking-the-coding-interview/Cracking the coding interview/src/main/resources
+2015-01-24 20:37:45,447 [Worker-514] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-24 20:37:45,447 [Worker-514] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Lydia/GitHub/Cracking-the-coding-interview/Cracking the coding interview/src/test/resources
+2015-01-24 20:38:42,144 [Worker-514] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-24 20:38:42,144 [Worker-514] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Lydia/GitHub/Cracking-the-coding-interview/Cracking the coding interview/src/main/resources
+2015-01-24 20:38:42,145 [Worker-514] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-24 20:38:42,145 [Worker-514] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Lydia/GitHub/Cracking-the-coding-interview/Cracking the coding interview/src/test/resources
+2015-01-24 21:03:26,698 [Worker-522] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-24 21:03:26,705 [Worker-522] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Lydia/GitHub/Cracking-the-coding-interview/Cracking the coding interview/src/main/resources
+2015-01-24 21:03:26,706 [Worker-522] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-24 21:03:26,707 [Worker-522] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Lydia/GitHub/Cracking-the-coding-interview/Cracking the coding interview/src/test/resources
+2015-01-24 21:04:31,267 [Worker-524] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-24 21:04:31,267 [Worker-524] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Lydia/GitHub/Cracking-the-coding-interview/Cracking the coding interview/src/main/resources
+2015-01-24 21:04:31,268 [Worker-524] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-24 21:04:31,268 [Worker-524] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Lydia/GitHub/Cracking-the-coding-interview/Cracking the coding interview/src/test/resources
+2015-01-24 21:05:36,348 [Worker-521] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-24 21:05:36,348 [Worker-521] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Lydia/GitHub/Cracking-the-coding-interview/Cracking the coding interview/src/main/resources
+2015-01-24 21:05:36,350 [Worker-521] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-24 21:05:36,350 [Worker-521] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Lydia/GitHub/Cracking-the-coding-interview/Cracking the coding interview/src/test/resources
+2015-01-24 21:05:42,799 [Worker-522] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-24 21:05:42,799 [Worker-522] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Lydia/GitHub/Cracking-the-coding-interview/Cracking the coding interview/src/main/resources
+2015-01-24 21:05:42,800 [Worker-522] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-24 21:05:42,801 [Worker-522] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Lydia/GitHub/Cracking-the-coding-interview/Cracking the coding interview/src/test/resources
+2015-01-24 21:05:47,084 [Worker-522] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-24 21:05:47,085 [Worker-522] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Lydia/GitHub/Cracking-the-coding-interview/Cracking the coding interview/src/main/resources
+2015-01-24 21:05:47,086 [Worker-522] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-24 21:05:47,087 [Worker-522] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Lydia/GitHub/Cracking-the-coding-interview/Cracking the coding interview/src/test/resources
+2015-01-24 21:05:53,014 [Worker-523] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-24 21:05:53,018 [Worker-523] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Lydia/GitHub/Cracking-the-coding-interview/Cracking the coding interview/src/main/resources
+2015-01-24 21:05:53,019 [Worker-523] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-24 21:05:53,019 [Worker-523] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Lydia/GitHub/Cracking-the-coding-interview/Cracking the coding interview/src/test/resources
+2015-01-24 21:06:11,184 [Worker-524] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-24 21:06:11,184 [Worker-524] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Lydia/GitHub/Cracking-the-coding-interview/Cracking the coding interview/src/main/resources
+2015-01-24 21:06:11,185 [Worker-524] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-24 21:06:11,186 [Worker-524] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Lydia/GitHub/Cracking-the-coding-interview/Cracking the coding interview/src/test/resources
+2015-01-25 12:33:00,644 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-25 12:33:00,651 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Lydia/GitHub/Cracking-the-coding-interview/Cracking the coding interview/src/main/resources
+2015-01-25 12:33:00,654 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-25 12:33:00,655 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Lydia/GitHub/Cracking-the-coding-interview/Cracking the coding interview/src/test/resources
+2015-01-25 13:27:13,897 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-25 13:27:13,902 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Lydia/GitHub/Cracking-the-coding-interview/Cracking the coding interview/src/main/resources
+2015-01-25 13:27:13,904 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-25 13:27:13,905 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Lydia/GitHub/Cracking-the-coding-interview/Cracking the coding interview/src/test/resources
+2015-01-25 13:29:32,744 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-25 13:29:32,745 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Lydia/GitHub/Cracking-the-coding-interview/Cracking the coding interview/src/main/resources
+2015-01-25 13:29:32,747 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-25 13:29:32,747 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Lydia/GitHub/Cracking-the-coding-interview/Cracking the coding interview/src/test/resources
+2015-01-25 13:32:53,224 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-25 13:32:53,225 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Lydia/GitHub/Cracking-the-coding-interview/Cracking the coding interview/src/main/resources
+2015-01-25 13:32:53,227 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-25 13:32:53,228 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Lydia/GitHub/Cracking-the-coding-interview/Cracking the coding interview/src/test/resources
+2015-01-25 13:33:17,599 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-25 13:33:17,599 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Lydia/GitHub/Cracking-the-coding-interview/Cracking the coding interview/src/main/resources
+2015-01-25 13:33:17,600 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-25 13:33:17,601 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Lydia/GitHub/Cracking-the-coding-interview/Cracking the coding interview/src/test/resources
+2015-01-25 13:36:14,301 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-25 13:36:14,301 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Lydia/GitHub/Cracking-the-coding-interview/Cracking the coding interview/src/main/resources
+2015-01-25 13:36:14,302 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-25 13:36:14,303 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Lydia/GitHub/Cracking-the-coding-interview/Cracking the coding interview/src/test/resources
+2015-01-25 13:36:36,189 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-25 13:36:36,190 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Lydia/GitHub/Cracking-the-coding-interview/Cracking the coding interview/src/main/resources
+2015-01-25 13:36:36,192 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-25 13:36:36,193 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Lydia/GitHub/Cracking-the-coding-interview/Cracking the coding interview/src/test/resources
+2015-01-25 13:39:47,284 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-25 13:39:47,284 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Lydia/GitHub/Cracking-the-coding-interview/Cracking the coding interview/src/main/resources
+2015-01-25 13:39:47,286 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-25 13:39:47,287 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Lydia/GitHub/Cracking-the-coding-interview/Cracking the coding interview/src/test/resources
+2015-01-25 13:39:54,467 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-25 13:39:54,468 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Lydia/GitHub/Cracking-the-coding-interview/Cracking the coding interview/src/main/resources
+2015-01-25 13:39:54,473 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-25 13:39:54,474 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Lydia/GitHub/Cracking-the-coding-interview/Cracking the coding interview/src/test/resources
+2015-01-25 13:41:08,106 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-25 13:41:08,107 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Lydia/GitHub/Cracking-the-coding-interview/Cracking the coding interview/src/main/resources
+2015-01-25 13:41:08,108 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-25 13:41:08,109 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Lydia/GitHub/Cracking-the-coding-interview/Cracking the coding interview/src/test/resources
+2015-01-25 13:41:29,263 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-25 13:41:29,264 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Lydia/GitHub/Cracking-the-coding-interview/Cracking the coding interview/src/main/resources
+2015-01-25 13:41:29,266 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-25 13:41:29,267 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Lydia/GitHub/Cracking-the-coding-interview/Cracking the coding interview/src/test/resources
+2015-01-25 13:50:05,957 [Worker-47] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-25 13:50:05,958 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Lydia/GitHub/Cracking-the-coding-interview/Cracking the coding interview/src/main/resources
+2015-01-25 13:50:05,959 [Worker-47] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-25 13:50:05,960 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Lydia/GitHub/Cracking-the-coding-interview/Cracking the coding interview/src/test/resources
+2015-01-25 13:54:48,928 [Worker-50] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-25 13:54:48,929 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Lydia/GitHub/Cracking-the-coding-interview/Cracking the coding interview/src/main/resources
+2015-01-25 13:54:48,930 [Worker-50] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-25 13:54:48,931 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Lydia/GitHub/Cracking-the-coding-interview/Cracking the coding interview/src/test/resources
+2015-01-25 13:57:05,554 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-25 13:57:05,555 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Lydia/GitHub/Cracking-the-coding-interview/Cracking the coding interview/src/main/resources
+2015-01-25 13:57:05,556 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-25 13:57:05,557 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Lydia/GitHub/Cracking-the-coding-interview/Cracking the coding interview/src/test/resources
+2015-01-25 13:57:12,816 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-25 13:57:12,817 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Lydia/GitHub/Cracking-the-coding-interview/Cracking the coding interview/src/main/resources
+2015-01-25 13:57:12,819 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-25 13:57:12,820 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Lydia/GitHub/Cracking-the-coding-interview/Cracking the coding interview/src/test/resources
+2015-01-25 13:57:44,726 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-25 13:57:44,727 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Lydia/GitHub/Cracking-the-coding-interview/Cracking the coding interview/src/main/resources
+2015-01-25 13:57:44,728 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-25 13:57:44,729 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Lydia/GitHub/Cracking-the-coding-interview/Cracking the coding interview/src/test/resources
+2015-01-25 13:57:56,792 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-25 13:57:56,792 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Lydia/GitHub/Cracking-the-coding-interview/Cracking the coding interview/src/main/resources
+2015-01-25 13:57:56,794 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-25 13:57:56,795 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Lydia/GitHub/Cracking-the-coding-interview/Cracking the coding interview/src/test/resources
+2015-01-25 13:58:11,125 [Worker-53] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-25 13:58:11,126 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Lydia/GitHub/Cracking-the-coding-interview/Cracking the coding interview/src/main/resources
+2015-01-25 13:58:11,127 [Worker-53] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-25 13:58:11,128 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Lydia/GitHub/Cracking-the-coding-interview/Cracking the coding interview/src/test/resources
+2015-01-25 13:58:33,979 [Worker-53] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-25 13:58:33,980 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Lydia/GitHub/Cracking-the-coding-interview/Cracking the coding interview/src/main/resources
+2015-01-25 13:58:33,983 [Worker-53] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-25 13:58:33,984 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Lydia/GitHub/Cracking-the-coding-interview/Cracking the coding interview/src/test/resources
+2015-01-25 13:59:47,320 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-25 13:59:47,321 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Lydia/GitHub/Cracking-the-coding-interview/Cracking the coding interview/src/main/resources
+2015-01-25 13:59:47,322 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-25 13:59:47,323 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Lydia/GitHub/Cracking-the-coding-interview/Cracking the coding interview/src/test/resources
+2015-01-25 13:59:52,128 [Worker-53] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-25 13:59:52,129 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Lydia/GitHub/Cracking-the-coding-interview/Cracking the coding interview/src/main/resources
+2015-01-25 13:59:52,130 [Worker-53] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-25 13:59:52,131 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Lydia/GitHub/Cracking-the-coding-interview/Cracking the coding interview/src/test/resources
+2015-01-25 14:00:52,637 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-25 14:00:52,638 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Lydia/GitHub/Cracking-the-coding-interview/Cracking the coding interview/src/main/resources
+2015-01-25 14:00:52,639 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-25 14:00:52,639 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Lydia/GitHub/Cracking-the-coding-interview/Cracking the coding interview/src/test/resources
+2015-01-25 14:00:56,955 [Worker-57] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-25 14:00:56,955 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Lydia/GitHub/Cracking-the-coding-interview/Cracking the coding interview/src/main/resources
+2015-01-25 14:00:56,956 [Worker-57] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-25 14:00:56,957 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Lydia/GitHub/Cracking-the-coding-interview/Cracking the coding interview/src/test/resources
+2015-01-25 14:01:02,270 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-25 14:01:02,271 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Lydia/GitHub/Cracking-the-coding-interview/Cracking the coding interview/src/main/resources
+2015-01-25 14:01:02,272 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-25 14:01:02,272 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Lydia/GitHub/Cracking-the-coding-interview/Cracking the coding interview/src/test/resources
+2015-01-25 14:01:11,037 [Worker-57] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-25 14:01:11,038 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Lydia/GitHub/Cracking-the-coding-interview/Cracking the coding interview/src/main/resources
+2015-01-25 14:01:11,039 [Worker-57] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-25 14:01:11,040 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Lydia/GitHub/Cracking-the-coding-interview/Cracking the coding interview/src/test/resources
+2015-01-25 14:02:59,135 [Worker-53] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-25 14:02:59,136 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Lydia/GitHub/Cracking-the-coding-interview/Cracking the coding interview/src/main/resources
+2015-01-25 14:02:59,137 [Worker-53] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-25 14:02:59,138 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Lydia/GitHub/Cracking-the-coding-interview/Cracking the coding interview/src/test/resources
+2015-01-25 14:03:14,267 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-25 14:03:14,267 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Lydia/GitHub/Cracking-the-coding-interview/Cracking the coding interview/src/main/resources
+2015-01-25 14:03:14,269 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-25 14:03:14,270 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Lydia/GitHub/Cracking-the-coding-interview/Cracking the coding interview/src/test/resources
+2015-01-25 14:03:18,443 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-25 14:03:18,443 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Lydia/GitHub/Cracking-the-coding-interview/Cracking the coding interview/src/main/resources
+2015-01-25 14:03:18,445 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-25 14:03:18,445 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Lydia/GitHub/Cracking-the-coding-interview/Cracking the coding interview/src/test/resources
+2015-01-25 14:03:57,168 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-25 14:03:57,168 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Lydia/GitHub/Cracking-the-coding-interview/Cracking the coding interview/src/main/resources
+2015-01-25 14:03:57,170 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-25 14:03:57,170 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Lydia/GitHub/Cracking-the-coding-interview/Cracking the coding interview/src/test/resources
+2015-01-25 14:04:13,650 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-25 14:04:13,651 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Lydia/GitHub/Cracking-the-coding-interview/Cracking the coding interview/src/main/resources
+2015-01-25 14:04:13,654 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-25 14:04:13,655 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Lydia/GitHub/Cracking-the-coding-interview/Cracking the coding interview/src/test/resources
+2015-01-25 14:04:18,543 [Worker-53] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-25 14:04:18,543 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Lydia/GitHub/Cracking-the-coding-interview/Cracking the coding interview/src/main/resources
+2015-01-25 14:04:18,545 [Worker-53] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-25 14:04:18,545 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Lydia/GitHub/Cracking-the-coding-interview/Cracking the coding interview/src/test/resources
+2015-01-25 14:15:33,968 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-25 14:15:33,969 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Lydia/GitHub/Cracking-the-coding-interview/Cracking the coding interview/src/main/resources
+2015-01-25 14:15:33,971 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-25 14:15:33,972 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Lydia/GitHub/Cracking-the-coding-interview/Cracking the coding interview/src/test/resources
+2015-01-25 14:15:43,118 [Worker-61] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-25 14:15:43,119 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Lydia/GitHub/Cracking-the-coding-interview/Cracking the coding interview/src/main/resources
+2015-01-25 14:15:43,120 [Worker-61] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-25 14:15:43,121 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Lydia/GitHub/Cracking-the-coding-interview/Cracking the coding interview/src/test/resources
+2015-01-25 14:15:57,872 [Worker-62] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-25 14:15:57,872 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Lydia/GitHub/Cracking-the-coding-interview/Cracking the coding interview/src/main/resources
+2015-01-25 14:15:57,874 [Worker-62] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-25 14:15:57,874 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Lydia/GitHub/Cracking-the-coding-interview/Cracking the coding interview/src/test/resources
+2015-01-25 14:16:10,852 [Worker-64] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-25 14:16:10,852 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Lydia/GitHub/Cracking-the-coding-interview/Cracking the coding interview/src/main/resources
+2015-01-25 14:16:10,853 [Worker-64] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-25 14:16:10,854 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Lydia/GitHub/Cracking-the-coding-interview/Cracking the coding interview/src/test/resources
+2015-01-25 14:16:34,092 [Worker-62] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-25 14:16:34,092 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Lydia/GitHub/Cracking-the-coding-interview/Cracking the coding interview/src/main/resources
+2015-01-25 14:16:34,094 [Worker-62] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-25 14:16:34,094 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Lydia/GitHub/Cracking-the-coding-interview/Cracking the coding interview/src/test/resources
+2015-01-25 14:17:45,595 [Worker-61] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-25 14:17:45,596 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Lydia/GitHub/Cracking-the-coding-interview/Cracking the coding interview/src/main/resources
+2015-01-25 14:17:45,597 [Worker-61] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-25 14:17:45,597 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Lydia/GitHub/Cracking-the-coding-interview/Cracking the coding interview/src/test/resources
+2015-01-25 14:32:56,266 [Worker-69] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-25 14:32:56,268 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Lydia/GitHub/Cracking-the-coding-interview/Cracking the coding interview/src/main/resources
+2015-01-25 14:32:56,269 [Worker-69] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-25 14:32:56,270 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Lydia/GitHub/Cracking-the-coding-interview/Cracking the coding interview/src/test/resources
+2015-01-25 14:34:03,998 [Worker-71] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-25 14:34:03,999 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Lydia/GitHub/Cracking-the-coding-interview/Cracking the coding interview/src/main/resources
+2015-01-25 14:34:04,000 [Worker-71] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-25 14:34:04,000 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Lydia/GitHub/Cracking-the-coding-interview/Cracking the coding interview/src/test/resources
+2015-01-25 14:37:05,624 [Worker-71] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-25 14:37:05,625 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Lydia/GitHub/Cracking-the-coding-interview/Cracking the coding interview/src/main/resources
+2015-01-25 14:37:05,629 [Worker-71] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-25 14:37:05,630 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Lydia/GitHub/Cracking-the-coding-interview/Cracking the coding interview/src/test/resources
+2015-01-25 14:37:10,869 [Worker-72] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-25 14:37:10,870 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Lydia/GitHub/Cracking-the-coding-interview/Cracking the coding interview/src/main/resources
+2015-01-25 14:37:10,871 [Worker-72] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-25 14:37:10,871 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Lydia/GitHub/Cracking-the-coding-interview/Cracking the coding interview/src/test/resources
+2015-01-25 14:37:50,787 [Worker-72] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-25 14:37:50,787 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Lydia/GitHub/Cracking-the-coding-interview/Cracking the coding interview/src/main/resources
+2015-01-25 14:37:50,788 [Worker-72] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-25 14:37:50,789 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Lydia/GitHub/Cracking-the-coding-interview/Cracking the coding interview/src/test/resources
+2015-01-25 15:18:42,438 [Worker-85] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-25 15:18:42,439 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Lydia/GitHub/Cracking-the-coding-interview/Cracking the coding interview/src/main/resources
+2015-01-25 15:18:42,440 [Worker-85] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-25 15:18:42,441 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Lydia/GitHub/Cracking-the-coding-interview/Cracking the coding interview/src/test/resources
+2015-01-25 15:20:29,799 [Worker-88] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-25 15:20:29,800 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Lydia/GitHub/Cracking-the-coding-interview/Cracking the coding interview/src/main/resources
+2015-01-25 15:20:29,801 [Worker-88] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-25 15:20:29,801 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Lydia/GitHub/Cracking-the-coding-interview/Cracking the coding interview/src/test/resources
+2015-01-25 15:21:41,882 [Worker-91] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-25 15:21:41,882 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Lydia/GitHub/Cracking-the-coding-interview/Cracking the coding interview/src/main/resources
+2015-01-25 15:21:41,884 [Worker-91] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-25 15:21:41,885 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Lydia/GitHub/Cracking-the-coding-interview/Cracking the coding interview/src/test/resources
+2015-01-25 15:22:18,809 [Worker-92] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-25 15:22:18,809 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Lydia/GitHub/Cracking-the-coding-interview/Cracking the coding interview/src/main/resources
+2015-01-25 15:22:18,811 [Worker-92] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-25 15:22:18,811 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Lydia/GitHub/Cracking-the-coding-interview/Cracking the coding interview/src/test/resources
+2015-01-25 15:22:51,438 [Worker-92] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-25 15:22:51,438 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Lydia/GitHub/Cracking-the-coding-interview/Cracking the coding interview/src/main/resources
+2015-01-25 15:22:51,439 [Worker-92] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-25 15:22:51,440 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Lydia/GitHub/Cracking-the-coding-interview/Cracking the coding interview/src/test/resources

@@ -1,0 +1,13 @@
+
+public class chapter5 {
+	static boolean getBit(int num, int i){
+		System.out.println((num & (1<< i)));
+		return ((num & (1<< i)) !=0);
+	}
+	
+	public static void main(String[] args){
+		if(getBit(1,1)){
+			System.out.println("true");
+		}
+	}
+}
