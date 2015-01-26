@@ -1,0 +1,11 @@
+
+public class chapter5c {
+	static void smallBigInt(int num){
+		int quotient = num/2;
+		int remainder=num%2;
+	}
+	public static void main(String[] args){
+		Double v = 0.3432;
+		System.out.println(v.doubleToLongBits(v));
+	}
+}

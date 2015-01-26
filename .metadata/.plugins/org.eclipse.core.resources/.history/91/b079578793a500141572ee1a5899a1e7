@@ -1,0 +1,44 @@
+
+public class chapter5c {
+	static int numBits(int num){
+		int numOne =0;
+		if (num !=0){
+			numOne++;
+		}
+		for (int half = num/2; half!=0;half=half/2){
+			if(half%2!=0){
+				numOne++;
+			}
+		}
+		return numOne;
+	}
+	
+	static void printSmallBig(int num){
+		int small=num--;
+		int big = num++;
+		int numOne=numBits(num);
+		System.out.println(num+" has "+numOne+" number of 1s");
+		if(num>3){
+			int smallOne；
+			while(numOne !=smallOne){
+				smallOne=numBits(small);
+				small--;
+			System.out.println(
+					"next smallest number that has the same number of 1 bits is " 
+			+small);
+			System.out.println(small+" has "+smallOne+" number of 1s");
+			}
+		}
+		int bigOne;
+		while(numOne!=bigOne){
+			bigOne=numBits(big);
+			big++;
+		}
+		System.out.println("next biggest number that has the same number of 1 bits is "
+				+big);
+		System.out.println(big+" has "+bigOne+" number of 1s");
+	}
+	public static void main(String[] args){
+		printSmallBig(3);
+	}
+}

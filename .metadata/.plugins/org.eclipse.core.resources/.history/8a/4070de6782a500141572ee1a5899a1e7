@@ -1,0 +1,7 @@
+
+public class chapter5b {
+	public static void main(String[] args){
+		Double v = 0.3432;
+		System.out.println(v.byteValue());
+	}
+}

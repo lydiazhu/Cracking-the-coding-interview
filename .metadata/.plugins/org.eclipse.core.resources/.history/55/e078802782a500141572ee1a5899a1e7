@@ -1,0 +1,6 @@
+
+public class chapter5b {
+	public static void main(String[] args){
+		System.out.println(bytevalue(0.12));
+	}
+}

@@ -1,0 +1,18 @@
+
+public class chapter5c {
+	static void smallBigInt(int num){
+		int numOne =0;
+		if (num !=0){
+			numOne++;
+		}
+		for (int half = num/2; half!=0;half=half/2){
+			if(half%2!=0){
+				numOne++;
+			}
+		}
+	}
+	public static void main(String[] args){
+		Double v = 0.3432;
+		System.out.println(v.doubleToLongBits(v));
+	}
+}
